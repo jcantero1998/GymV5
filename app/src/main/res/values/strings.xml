@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SETCOUNTER</string>
+
+    <string name="buttonVolver">VOLVER</string>
+    <string name="dialog_add_txtTitulo">AÑADE UN EJERCICIO</string>
+    <string name="dialog_add_hint_nombre">Nombre del ejercicio</string>
+    <string name="dialog_add_hint_series">Series</string>
+    <string name="dialog_add_hint_repeticiones">Repeticiones</string>
+    <string name="dialog_add_hint_peso">Peso</string>
+    <string name="buttonAñadir">AÑADIR</string>
+    <string name="buttonModificar">MODIFICAR</string>
+    <string name="dialog_change_txtTitulo">MODIFICA EL EJERCICIO</string>
+    <string name="lest_ejercicio_view_repeticiones">REPETICIONES: </string>
+    <string name="lest_ejercicio_view_peso">PESO: </string>
+    <string name="lest_ejercicio_view_series">SERIES</string>
+    <string name="btnIniciarCuentaAtras">INICIAR</string>
+    <string name="second_fragment_01">01</string>
+    <string name="second_fragment_30">30</string>
+    <string name="dialog_info_author">© Jon Cantero - 2020</string>
+    <string name="dialog_info_introducir_ejercicios">Introducir ejercicios</string>
+    <string name="dialog_info_series">Aumentar y restablecer series</string>
+    <string name="dialog_info_modificar_borrar">Modificar o borrar ejercicios</string>
+    <string name="btnREINICIAR">REINICIAR</string>
+    <string name="ejercicios">EJERCICIOS</string>
+    <string name="descanso">DESCANSO</string>
+    <string name="main_añadir_rutina">AÑADIR NUEVA RUTINA</string>
+    <string name="dialog_add_rutina_txtTitulo">AÑADE UNA RUTINA</string>
+    <string name="dialog_add_rutina_hint">Nombre de la rutina</string>
+    <string name="empty_rutina_list">Añade alguna rutina</string>
+    <string name="dialog_change_rutina_txtTitulo">RENOMBRAR RUTINA</string>
+    <string name="buttonRenombrar">ACEPTAR</string>
+    <string name="dialog_add_hint_numero">Número del ejercicio</string>
+    <string name="empty_ejercicio_list">Añade algún ejercicio</string>
+    <string name="dialog_change_txtTNumero">"Ejercicio número: "</string>
+    <string name="dialog_change_nombre">"Nombre: "</string>
+    <string name="dialog_change_series">"Series: "</string>
+    <string name="dialog_change_repeticiones">"Repeticiones: "</string>
+    <string name="dialog_change_peso">"Peso: "</string>
+    <string name="buttonBorrar">ELIMINAR</string>
+    <string name="mainActivityTitulo">LISTA DE RUTINAS</string>
+</resources>
