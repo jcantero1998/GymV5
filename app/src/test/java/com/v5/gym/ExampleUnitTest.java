@@ -1,4 +1,4 @@
-package com.example.gymv5;
+package com.v5.gym;
 
 import org.junit.Test;
 

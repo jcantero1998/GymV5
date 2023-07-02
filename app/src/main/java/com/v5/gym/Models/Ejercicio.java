@@ -1,4 +1,4 @@
-package com.example.gymv5.Models;
+package com.v5.gym.Models;
 
 public class Ejercicio {
     private int codigo;

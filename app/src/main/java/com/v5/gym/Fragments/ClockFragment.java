@@ -1,6 +1,5 @@
-package com.example.gymv5.Fragments;
+package com.v5.gym.Fragments;
 
-import android.app.Activity;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
@@ -18,18 +17,15 @@ import android.os.CountDownTimer;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.LayoutInflater;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-import com.example.gymv5.Activities.RutinaActivity;
-import com.example.gymv5.Databases.DataBase;
-import com.example.gymv5.R;
+import com.v5.gym.Databases.DataBase;
+import com.v5.gym.R;
 
 public class ClockFragment extends Fragment {
 

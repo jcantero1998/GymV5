@@ -1,11 +1,11 @@
-package com.example.gymv5.Adapters;
+package com.v5.gym.Adapters;
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
 
-import com.example.gymv5.Fragments.ClockFragment;
-import com.example.gymv5.Fragments.ListFragment;
+import com.v5.gym.Fragments.ClockFragment;
+import com.v5.gym.Fragments.ListFragment;
 
 public class PagerAdapter extends FragmentStatePagerAdapter {
 

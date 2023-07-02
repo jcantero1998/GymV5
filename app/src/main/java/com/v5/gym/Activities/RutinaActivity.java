@@ -1,11 +1,10 @@
-package com.example.gymv5.Activities;
+package com.v5.gym.Activities;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.viewpager.widget.ViewPager;
 
-import android.app.Notification;
 import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.database.Cursor;
@@ -19,13 +18,13 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-import com.example.gymv5.Adapters.PagerAdapter;
-import com.example.gymv5.Databases.DataBase;
-import com.example.gymv5.Fragments.ClockFragment;
-import com.example.gymv5.Fragments.ListFragment;
-import com.example.gymv5.Models.Ejercicio;
-import com.example.gymv5.Models.Rutina;
-import com.example.gymv5.R;
+import com.v5.gym.Adapters.PagerAdapter;
+import com.v5.gym.Databases.DataBase;
+import com.v5.gym.Fragments.ClockFragment;
+import com.v5.gym.Fragments.ListFragment;
+import com.v5.gym.Models.Ejercicio;
+import com.v5.gym.Models.Rutina;
+import com.v5.gym.R;
 import com.google.android.material.tabs.TabLayout;
 
 import java.util.ArrayList;

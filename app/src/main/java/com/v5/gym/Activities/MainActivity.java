@@ -1,36 +1,28 @@
-package com.example.gymv5.Activities;
+package com.v5.gym.Activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.ContentValues;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
-import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.gymv5.Adapters.EjercicioAdapter;
-import com.example.gymv5.Adapters.RutinaAdapter;
-import com.example.gymv5.Databases.DataBase;
-import com.example.gymv5.Models.Ejercicio;
-import com.example.gymv5.Models.Rutina;
-import com.example.gymv5.R;
+import com.v5.gym.Adapters.RutinaAdapter;
+import com.v5.gym.Databases.DataBase;
+import com.v5.gym.Models.Rutina;
+import com.v5.gym.R;
 
 import java.util.ArrayList;
 import java.util.Collections;

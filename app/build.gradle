@@ -6,11 +6,11 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
-        applicationId 'com.example.gymv5'
+        applicationId 'com.v5.gym'
         minSdkVersion 16
         targetSdkVersion 31
-        versionCode 1
-        versionName "1.0"
+        versionCode 5
+        versionName "5.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -25,7 +25,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'com.example.gymv5'
+    namespace 'com.v5.gym'
 }
 
 dependencies {

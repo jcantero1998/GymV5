@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.gymv5.Activities.RutinaActivity">
+    tools:context="com.v5.gym.Activities.RutinaActivity">
 
     <item
         android:id="@+id/restart_item"

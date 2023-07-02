@@ -1,18 +1,16 @@
-package com.example.gymv5.Adapters;
+package com.v5.gym.Adapters;
 
-import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.gymv5.Models.Rutina;
-import com.example.gymv5.R;
+import com.v5.gym.Models.Rutina;
+import com.v5.gym.R;
 
 import java.util.ArrayList;
 import java.util.List;

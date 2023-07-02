@@ -1,4 +1,4 @@
-package com.example.gymv5.Fragments;
+package com.v5.gym.Fragments;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -19,11 +19,11 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.gymv5.Activities.MainActivity;
-import com.example.gymv5.Activities.RutinaActivity;
-import com.example.gymv5.Adapters.EjercicioAdapter;
-import com.example.gymv5.Models.Ejercicio;
-import com.example.gymv5.R;
+import com.v5.gym.Activities.MainActivity;
+import com.v5.gym.Activities.RutinaActivity;
+import com.v5.gym.Adapters.EjercicioAdapter;
+import com.v5.gym.Models.Ejercicio;
+import com.v5.gym.R;
 
 import java.util.Collections;
 

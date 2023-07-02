@@ -1,4 +1,4 @@
-package com.example.gymv5.Adapters;
+package com.v5.gym.Adapters;
 
 import android.content.DialogInterface;
 import android.view.LayoutInflater;
@@ -6,16 +6,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.gymv5.Activities.RutinaActivity;
-import com.example.gymv5.Models.Ejercicio;
-import com.example.gymv5.Models.Rutina;
-import com.example.gymv5.R;
+import com.v5.gym.Activities.RutinaActivity;
+import com.v5.gym.Models.Ejercicio;
+import com.v5.gym.R;
 
 import java.util.ArrayList;
 import java.util.List;

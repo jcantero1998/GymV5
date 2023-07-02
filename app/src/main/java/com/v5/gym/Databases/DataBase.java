@@ -1,4 +1,4 @@
-package com.example.gymv5.Databases;
+package com.v5.gym.Databases;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
